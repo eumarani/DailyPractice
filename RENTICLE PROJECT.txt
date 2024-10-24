@@ -1,0 +1,67 @@
+
+          RENTICKLE:
+
+
+1.Project Overview:
+
+Summary:I worked with Application support role.It is an internal web application for e-commerce websites.This application aim is changing the way of 
+people access furniture(Through the online) and tracking the data of customer orders in store.
+
+Domain:E-commerce
+Rentickle operates on rental model,allowing customers to rent items instead of purchasing them.
+
+Key StakeHolders:Rentickle application users(Store owners).
+
+2.Your Role:
+
+Role:Support Engineer
+
+Responsiblities:Mainly worked with the Application issues,Understanding the requirements of the Client,  
+Troubleshooting,Incident Logging and Performance Monitoring.   
+
+3.Technical Details:
+
+Technologies Used:We used SQL to resolve the issues of the Application(from Backend).For the few major issues we will worked with JAVA as well.
+
+4.Challenges & Solutions:
+
+Technical or Non-technical Obstacles:Application Downtime(No. of users are affected) 
+
+Reasons:VDI issue.
+       Application issue.
+       Migration issue.
+       Due to ROLLBACK Changes.
+
+Solution:For this issue we need do our initial investigation.
+
+Many of the users were launching this application inside the VDI(Virtual Desktop Infrastructure).But few user's are launching this application inside
+VPN.If user is not able to launch the application inside the VPN but able t alunch the application inside VDI then this is not our issue.May be this 
+is VPN issue.But at that moment after completion my initial invesigation also till issue persists.
+This an major P1 incident.
+For this there is Bridge call.In this call i checked with all the teams if they were done with any changes(CR).Yes,DBA team is done with the change within
+Bussiness hours without informing to any others.So,Change management team asked them to RollBack that change,then they rollbacked that.Then few user's 
+were able to launch the application.
+At this moment i checked the user's individually.till issue persists.I checked all the users details from Backend.All looks good but i am not sure what's 
+went wrong.Like wise 2 days wentoff.user's were escalted me on that incident.Finally i got an idea regarding permissions and skills issue on 
+the Application.I had removed and re-added the skills for all the user's.Then no. of users are able to launch the application.Only few users are not able
+to launch the application.later on i resolved that.
+
+
+5.Outcome:Improved Usability of furniture by the customers.
+
+6.Learning Experience:Through this project i learned SQL.
+
+Final Response:
+
+I worked as Application support engineer.The Project aim is changing the way of people access furniture(through the online) and tracking the data of
+customer orders in stores.By using this application deliver the products with in 72hrs(3days).
+for example today one person ordered 1 product.If the product is not available in that stores,then they need to know that information through email 
+or messages.By using this application we will do.
+
+
+
+
+
+
+
+
