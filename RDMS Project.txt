@@ -1,0 +1,19 @@
+Project name:RDMS-->Client is Rentickle
+Rentickle data management system.
+
+-->For the rent purpose only
+
+
+-->It is the 1 of the internal web appliction,which is used for e-commerce application.
+
+-->Main intenion of this is changing the way of people accesing the furniture.
+
+-->deliver the products with in 72hr's.
+
+-->THis application access had only for thatparitcular stores like which are used RDMs appliction.
+
+-->without using this application user's needs to go to the store and purchase the products is very lengthy  process.
+
+-->in this application Store owners will able to update deatils if they entered any wrong deatils then they were uanble to remove that details from the application.
+
+--->At that momement some third people will raise the incident.At this Point of time Application support team needs to work on this.
